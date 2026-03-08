@@ -1,0 +1,17 @@
+# Voice AI Evaluation Pipeline — Dependencies
+# ──────────────────────────────────────────────
+# Core (required)
+numpy>=1.24.0
+
+# Transcription (optional — falls back to mock if unavailable)
+openai-whisper>=20231117
+
+# Semantic similarity (optional — falls back to TF-IDF if unavailable)
+sentence-transformers>=2.2.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Development / type checking (optional)
+mypy>=1.4.0

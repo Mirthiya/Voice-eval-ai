@@ -1,0 +1,23 @@
+[
+  {
+    "sample_id": "sample_001",
+    "audio_path": "C:\\Users\\mirth_gd7dvu\\DisasterConnect\\src\\Voice_eval_ai\\samples\\audio\\greeting.wav",
+    "reference_transcript": "hello how are you today",
+    "reference_response": "I am doing well thank you",
+    "context": "Casual greeting."
+  },
+  {
+    "sample_id": "sample_002",
+    "audio_path": "C:\\Users\\mirth_gd7dvu\\DisasterConnect\\src\\Voice_eval_ai\\samples\\audio\\weather.wav",
+    "reference_transcript": "what is the weather forecast for tomorrow",
+    "reference_response": "Tomorrow will be sunny",
+    "context": "Weather forecast sunny skies."
+  },
+  {
+    "sample_id": "sample_003",
+    "audio_path": "C:\\Users\\mirth_gd7dvu\\DisasterConnect\\src\\Voice_eval_ai\\samples\\audio\\remainder.wav",
+    "reference_transcript": "please set a reminder for three pm",
+    "reference_response": "Reminder set for 3pm",
+    "context": "User requested reminder."
+  }
+]
